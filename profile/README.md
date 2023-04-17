@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is a repository for the contributors to the open-access [*Quantitative Reasoning for Social Justice* workbook](https://qr-for-social-justice.github.io/workbook/).
+This is the organization page for the contributors to the open-access [*Quantitative Reasoning for Social Justice* workbook](https://qr-for-social-justice.github.io/workbook/).
